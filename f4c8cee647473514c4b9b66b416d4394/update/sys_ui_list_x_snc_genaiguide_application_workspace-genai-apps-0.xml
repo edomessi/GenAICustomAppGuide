@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_genaiguide_application" version="2" view="workspace-genai-apps-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_snc_genaiguide_application" element="NULL" name="x_snc_genaiguide_application" parent="NULL" relationship="NULL" sys_domain="global" view="8b92ebdeb58c4a50588aa232e12149b7">f1a2afde1b8c4a50a2d143f1b24bcb4a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 20:44:16</sys_created_on>
+            <sys_id>fda2afde1b8c4a50a2d143f1b24bcb4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 20:44:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_snc_genaiguide_application" element="NULL" name="x_snc_genaiguide_application" parent="NULL" relationship="NULL" sys_domain="global" view="8b92ebdeb58c4a50588aa232e12149b7">f1a2afde1b8c4a50a2d143f1b24bcb4a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 20:44:16</sys_created_on>
+            <sys_id>f5a2afde1b8c4a50a2d143f1b24bcb4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 20:44:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_snc_genaiguide_application" element="NULL" name="x_snc_genaiguide_application" parent="NULL" relationship="NULL" sys_domain="global" view="8b92ebdeb58c4a50588aa232e12149b7">f1a2afde1b8c4a50a2d143f1b24bcb4a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 20:44:16</sys_created_on>
+            <sys_id>f9a2afde1b8c4a50a2d143f1b24bcb4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 20:44:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_snc_genaiguide_application" element="NULL" name="x_snc_genaiguide_application" parent="NULL" relationship="NULL" sys_domain="global" view="8b92ebdeb58c4a50588aa232e12149b7">f1a2afde1b8c4a50a2d143f1b24bcb4a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 20:44:16</sys_created_on>
+            <sys_id>fda2afde1b8c4a50a2d143f1b24bcb4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 20:44:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_snc_genaiguide_application" element="NULL" name="x_snc_genaiguide_application" parent="NULL" relationship="NULL" sys_domain="global" view="8b92ebdeb58c4a50588aa232e12149b7">f1a2afde1b8c4a50a2d143f1b24bcb4a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 20:44:16</sys_created_on>
+            <sys_id>f1a2afde1b8c4a50a2d143f1b24bcb4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 20:44:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_snc_genaiguide_application" element="NULL" name="x_snc_genaiguide_application" parent="NULL" relationship="NULL" sys_domain="global" view="8b92ebdeb58c4a50588aa232e12149b7">f1a2afde1b8c4a50a2d143f1b24bcb4a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 20:44:16</sys_created_on>
+            <sys_id>f5a2afde1b8c4a50a2d143f1b24bcb4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 20:44:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_genaiguide_application</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 20:44:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1a2afde1b8c4a50a2d143f1b24bcb4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_genaiguide_application</sys_name>
+            <sys_package display_value="GenAIGuide" source="x_snc_genaiguide">f4c8cee647473514c4b9b66b416d4394</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GenAIGuide">f4c8cee647473514c4b9b66b416d4394</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_genaiguide_application_workspace-genai-apps-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 20:44:16</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace GenAI Apps 0" name="workspace-genai-apps-0">8b92ebdeb58c4a50588aa232e12149b7</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="GenAI Apps App Config">0f92ebde508c4a5083d87461fe00b8c1</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings/>
+        <macroponent display_value="Dashboards">163a913b532c0110aab9ddeeff7b1241</macroponent>
+        <macroponent_config/>
+        <name>Dashboards Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Dashboards">0b92ebdee48c4a5052561677db1148b3</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 20:44:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4392ebde958c4a5082506b87b715c887</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboards Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GenAIGuide" source="x_snc_genaiguide">f4c8cee647473514c4b9b66b416d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GenAIGuide">f4c8cee647473514c4b9b66b416d4394</sys_scope>
+        <sys_update_name>sys_ux_screen_4392ebde958c4a5082506b87b715c887</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 20:44:07</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=4392ebde958c4a5082506b87b715c887"/>
+</record_update>

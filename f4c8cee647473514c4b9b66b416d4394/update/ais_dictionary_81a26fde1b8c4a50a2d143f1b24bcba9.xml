@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>sc_req_item,x_snc_genaiguide_application</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>genai-apps Search Profile Default Spell Check Dictionary</label>
+        <last_derived>2024-02-01 20:47:30</last_derived>
+        <locale>en</locale>
+        <name>x_snc_genaiguide_genai_apps_search_profile_default_spell_check_dictionary</name>
+        <publish_id>02a507c6-eb17-4731-90fc-6adba8f40448</publish_id>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 20:44:13</sys_created_on>
+        <sys_id>81a26fde1b8c4a50a2d143f1b24bcba9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_snc_genaiguide_genai_apps_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="GenAIGuide" source="x_snc_genaiguide">f4c8cee647473514c4b9b66b416d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GenAIGuide">f4c8cee647473514c4b9b66b416d4394</sys_scope>
+        <sys_update_name>ais_dictionary_81a26fde1b8c4a50a2d143f1b24bcba9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 20:44:13</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

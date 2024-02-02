@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDe1902e22740c8a50dfc74c5811a10ea1</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>f4c8cee647473514c4b9b66b416d4394</scope_name>
+        <serialized_content>{"FlowDesigner:FDe1902e22740c8a50dfc74c5811a10ea1":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"choiceOption\":\"\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"choiceOption\":\"\",\"mapped\":\"{}\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDe1902e22740c8a50dfc74c5811a10ea1.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"fe4062f0-7876-489a-9984-ad34ceb2c52b\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDe1902e22740c8a50dfc74c5811a10ea1\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"2\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 10:34:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e5902e221b0c8a50a2d143f1b24bcba1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FDe1902e22740c8a50dfc74c5811a10ea1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GenAIGuide" source="x_snc_genaiguide">f4c8cee647473514c4b9b66b416d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GenAIGuide">f4c8cee647473514c4b9b66b416d4394</sys_scope>
+        <sys_update_name>sys_complex_object_e5902e221b0c8a50a2d143f1b24bcba1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 10:36:04</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

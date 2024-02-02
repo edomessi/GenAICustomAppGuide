@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="8fde53da1b8c4a50a2d143f1b24bcb42" sys_domain="global" table="x_snc_genaiguide_application" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 20:27:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13de53da1b8c4a50a2d143f1b24bcb46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_genaiguide_application" name="x_snc_genaiguide_application" sys_domain="global" view="Default view">8fde53da1b8c4a50a2d143f1b24bcb42</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_genaiguide_application" sys_domain="global" view="Default view">d4e289821bc00a50a2d143f1b24bcb29</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 20:27:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 20:27:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5fde53da1b8c4a50a2d143f1b24bcb46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_genaiguide_application" name="x_snc_genaiguide_application" sys_domain="global" view="Default view">8fde53da1b8c4a50a2d143f1b24bcb42</sys_ui_form>
+            <sys_ui_section caption="GenAI Response" display_value="GenAI Response" name="x_snc_genaiguide_application" sys_domain="global" view="Default view">8fde53da1b8c4a50a2d143f1b24bcb33</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 20:27:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 20:27:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dfde53da1b8c4a50a2d143f1b24bcb4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_genaiguide_application" name="x_snc_genaiguide_application" sys_domain="global" view="Default view">8fde53da1b8c4a50a2d143f1b24bcb42</sys_ui_form>
+            <sys_ui_section caption="GenAI Request" display_value="GenAI Request" name="x_snc_genaiguide_application" sys_domain="global" view="Default view">0fde53da1b8c4a50a2d143f1b24bcb41</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 20:27:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 20:27:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57de53da1b8c4a50a2d143f1b24bcb5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_genaiguide_application" name="x_snc_genaiguide_application" sys_domain="global" view="Default view">8fde53da1b8c4a50a2d143f1b24bcb42</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_snc_genaiguide_application" sys_domain="global" view="Default view">87de53da1b8c4a50a2d143f1b24bcb42</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 20:27:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_genaiguide_application</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-01 20:27:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8fde53da1b8c4a50a2d143f1b24bcb42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_genaiguide_application</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GenAIGuide" source="x_snc_genaiguide">f4c8cee647473514c4b9b66b416d4394</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GenAIGuide">f4c8cee647473514c4b9b66b416d4394</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8fde53da1b8c4a50a2d143f1b24bcb42</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-01 20:27:42</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

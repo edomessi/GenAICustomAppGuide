@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="cce205c21bc00a50a2d143f1b24bcbb2" extends="task" label="Application" max_length="40" name="x_snc_genaiguide_application" type="collection">
+        <element label="Data" max_length="8000" name="data" type="string"/>
+        <element label="GenAI Data Summary" max_length="8000" name="genai_data_summary" type="string"/>
+        <element label="GenAI Mermaid Code" max_length="8000" name="genai_mermaid_code" type="string"/>
+        <element label="GenAI VBA Script" max_length="8000" name="genai_vba_script" type="string"/>
+        <element label="Integrations" max_length="8000" name="integrations" type="string"/>
+        <element label="Key Functionalities" max_length="8000" name="key_functionalities" type="string"/>
+        <element label="Purpose of the Application" max_length="8000" name="purpose_of_the_application" type="string"/>
+        <element label="Requested Item" max_length="32" name="requested_item" reference="sc_req_item" type="reference"/>
+        <element label="User Roles" max_length="8000" name="user_roles" type="string"/>
+    </element>
+</database>

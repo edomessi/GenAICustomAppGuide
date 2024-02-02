@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>workspace-genai-apps-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-01 20:44:08</sys_created_on>
+        <sys_id>8b92ebdeb58c4a50588aa232e12149b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace GenAI Apps 0</sys_name>
+        <sys_package display_value="GenAIGuide" source="x_snc_genaiguide">f4c8cee647473514c4b9b66b416d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GenAIGuide">f4c8cee647473514c4b9b66b416d4394</sys_scope>
+        <sys_update_name>sys_ui_view_8b92ebdeb58c4a50588aa232e12149b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-01 20:44:08</sys_updated_on>
+        <title>Workspace GenAI Apps 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
